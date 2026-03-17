@@ -46,15 +46,15 @@ export default function LandingPage() {
           background={{ variant: "plain" }}
           leftCarouselItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png",              imageAlt: "Claudia Rosefeld portrait - mysterious confidence"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png?_wi=1",              imageAlt: "Claudia Rosefeld portrait - mysterious confidence"
             }
           ]}
           rightCarouselItems={[
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png",              imageAlt: "Claudia street photography - natural feminine energy"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png?_wi=1",              imageAlt: "Claudia street photography - natural feminine energy"
             },
             {
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-9p8yt57i.png",              imageAlt: "Claudia elegant portrait - refined grace"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-9p8yt57i.png?_wi=1",              imageAlt: "Claudia elegant portrait - refined grace"
             }
           ]}
           buttons={[
@@ -87,15 +87,15 @@ export default function LandingPage() {
           features={[
             {
               id: "1",              title: "The Sudden Shift",              author: "Claudia",              description: "She was engaged one moment. Cold the next. You have no idea why.",              tags: ["attraction", "psychology"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png",              imageAlt: "Claudia explaining women's psychology"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png?_wi=2",              imageAlt: "Claudia explaining women's psychology"
             },
             {
               id: "2",              title: "The Confusion",              author: "Claudia",              description: "Mixed signals. Unclear intentions. You're always guessing what she really wants.",              tags: ["psychology", "signals"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png",              imageAlt: "Understanding hidden patterns"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png?_wi=2",              imageAlt: "Understanding hidden patterns"
             },
             {
               id: "3",              title: "The Cost",              author: "Claudia",              description: "You chase harder. Try more. Lose control. Nothing works because you never understood the game.",              tags: ["attraction", "control"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-9p8yt57i.png",              imageAlt: "Regaining power and confidence"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-9p8yt57i.png?_wi=2",              imageAlt: "Regaining power and confidence"
             }
           ]}
           animationType="blur-reveal"
@@ -136,23 +136,23 @@ export default function LandingPage() {
           features={[
             {
               id: "1",              title: "What She Notices In The First Seconds",              author: "Chapter 1",              description: "The exact signals women pick up on instantly. Before you even speak. This section alone changes everything.",              tags: ["first impression", "psychology"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png",              imageAlt: "First impression psychology"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png?_wi=3",              imageAlt: "First impression psychology"
             },
             {
               id: "2",              title: "Why She Suddenly Loses Interest",              author: "Chapter 2",              description: "The predictable patterns that kill attraction. The mistakes you're making without realizing it. How to stop them.",              tags: ["mistakes", "attraction"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png",              imageAlt: "Attraction psychology explained"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png?_wi=3",              imageAlt: "Attraction psychology explained"
             },
             {
               id: "3",              title: "The Mistakes That Quietly Ruin Attraction",              author: "Chapter 3",              description: "What confidence actually looks like. It's not what you think. The real foundation that creates lasting attraction.",              tags: ["confidence", "psychology"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-9p8yt57i.png",              imageAlt: "Real confidence revealed"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-9p8yt57i.png?_wi=3",              imageAlt: "Real confidence revealed"
             },
             {
               id: "4",              title: "How To Stop Chasing and Stay In Control",              author: "Chapter 4",              description: "The exact framework for shifting dynamics. Stop being reactive. Start leading. How to keep her engaged without effort.",              tags: ["control", "dynamics"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png",              imageAlt: "Taking control of dynamics"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png?_wi=4",              imageAlt: "Taking control of dynamics"
             },
             {
               id: "5",              title: "What Confidence Actually Looks Like",              author: "Chapter 5",              description: "Real confidence isn't arrogance. It's understanding. This chapter shows you how women perceive true confidence and how to embody it.",              tags: ["confidence", "presence"],
-              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png",              imageAlt: "Authentic confidence embodied"
+              imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-br5evijf.png?_wi=4",              imageAlt: "Authentic confidence embodied"
             }
           ]}
           animationType="blur-reveal"
@@ -209,7 +209,7 @@ export default function LandingPage() {
               id: "5",              title: "Is this only for selling?",              content: "No. This applies to dating, relationships, first impressions, and any interaction with women. The patterns are universal."
             }
           ]}
-          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png"
+          imageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3B4WpKZXAsvjsUXDrvPvErsa97m/uploaded-1773749095864-l0v0f5xw.png?_wi=5"
           mediaAnimation="blur-reveal"
           faqsAnimation="slide-up"
           textboxLayout="split"
